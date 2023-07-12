@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.2.0",
+    "cookiecutter_context": {
+      "project_name": "Patient Smoke",
+      "project_slug": "patient_smoke_7",
+      "project_dash_slug": "patient-smoke-7",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "vivekk@test.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
